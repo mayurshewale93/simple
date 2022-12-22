@@ -5,4 +5,4 @@ Note that this toothbrush is totally safe to use for children, adults, pets, wil
 
 This toothbrush speaks 7 international languages.
 
-The toothbrush requires 2AA Batteries.
+The toothbrush requires 2AA Batteries and a charger.
