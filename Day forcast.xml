@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Forecast>
+   <Dailyforecast>
+      <date>05/01/2023</date>
+      <Description>Partly cloudy</Description>
+      <Temperature unit="C">21</Temperature>
+      <High unit="C">26</High>
+      <Low unit="C">13</Low>
+   </Dailyforecast>
+   <Dailyforecast>
+      <date>06/01/2023</date>
+      <Description>Partly cloudy</Description>
+      <Temperature unit="C">22</Temperature>
+      <High unit="C">27</High>
+      <Low unit="C">14</Low>
+   </Dailyforecast>
+</Forecast>
